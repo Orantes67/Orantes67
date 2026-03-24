@@ -1,8 +1,12 @@
 # Hi, I'm Hector! 👋
+![Banner](https://github.com/user-attachments/assets/e583c9dc-5423-40f1-acb5-84076ff6b585)
+
+
 
 ## 🚀 About Me
 I'm a **Full Stack Developer** and **Software Engineer** passionate about building scalable and practical solutions.  
 I enjoy solving real-world problems through code and continuously improving my skills.
+
 
 ---
 
@@ -10,8 +14,6 @@ I enjoy solving real-world problems through code and continuously improving my s
 - Clean Architecture & scalable systems  
 - Optimization algorithms (Genetic Algorithms, pathfinding)  
 - IoT & embedded systems (ESP32, LoRa)  
-
----
 
 
 ---
@@ -72,7 +74,6 @@ I enjoy turning complex problems into simple and functional software solutions �
 
 ## 📊 GitHub Stats
 
-![Banner](https://github.com/user-attachments/assets/e583c9dc-5423-40f1-acb5-84076ff6b585)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orantes67&theme=dark)](https://git.io/streak-stats)
 
