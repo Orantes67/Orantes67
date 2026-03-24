@@ -61,9 +61,9 @@ I enjoy solving real-world problems through code and continuously improving my s
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-profile  
-- 📱 Phone: (optional)  
+- 📧 Email: robleshectorroman@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/hector-roman-robles-orantes-3b6421325/ 
+
 
 ---
 
